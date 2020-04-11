@@ -7,7 +7,8 @@ const useStyles = makeStyles({
         border: "0px solid",
         padding: 15,
         lineHeight: 1.3125,
-        display: "flex"
+        display: "flex",
+        backgroundColor: "white"
     },
     cardProfileRoot: {
         margin: 5,
