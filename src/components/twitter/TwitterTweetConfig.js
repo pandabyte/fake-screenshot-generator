@@ -68,7 +68,7 @@ export default function TwitterFeedConfig(props) {
                     <Form.Control type="number" value={comments} placeholder="Comments" onChange={commentsConfigCallback}/>
                     <Form.Label>Retweets</Form.Label>
                     <Form.Control type="number" value={retweets} placeholder="Retweets" onChange={retweetsConfigCallback}/>
-                    <Form.Label>Like</Form.Label>
+                    <Form.Label>Likes</Form.Label>
                     <Form.Control type="number" value={likes} placeholder="Likes" onChange={likesConfigCallback} />
                 </Form.Group>
             </Form>

@@ -1,5 +1,5 @@
 {
-  "name": "mock-post-generator",
+  "name": "fake-screenshot-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
