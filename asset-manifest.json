@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/fake-screenshot-generator/static/js/main.a94b1ffd.chunk.js",
+    "main.js.map": "/fake-screenshot-generator/static/js/main.a94b1ffd.chunk.js.map",
+    "runtime-main.js": "/fake-screenshot-generator/static/js/runtime-main.1163d739.js",
+    "runtime-main.js.map": "/fake-screenshot-generator/static/js/runtime-main.1163d739.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/fake-screenshot-generator/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3ac2d825.chunk.js": "/fake-screenshot-generator/static/js/2.3ac2d825.chunk.js",
+    "static/js/2.3ac2d825.chunk.js.map": "/fake-screenshot-generator/static/js/2.3ac2d825.chunk.js.map",
+    "index.html": "/fake-screenshot-generator/index.html",
+    "precache-manifest.2fa052223f15e41a1619da5b6212e9a3.js": "/fake-screenshot-generator/precache-manifest.2fa052223f15e41a1619da5b6212e9a3.js",
+    "service-worker.js": "/fake-screenshot-generator/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/fake-screenshot-generator/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.3ac2d825.chunk.js.LICENSE.txt": "/fake-screenshot-generator/static/js/2.3ac2d825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1163d739.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3ac2d825.chunk.js",
+    "static/js/main.a94b1ffd.chunk.js"
+  ]
+}
